@@ -89,8 +89,15 @@ Ask too, before the short fields:
   (https://www.arcgis.com/apps/instant/portfolio/index.html?appid=4c2a5325a5e24c2c9006a9efde94aa5e)
   and have them look up their own address.  Do not guess a district from a
   city name, because districts split cities.
-- Whether they, or their spouse, have a financial interest in, or work for,
-  a business or agency that does business with Whatcom County.  Explain that
+- Question 2: whether they live in Whatcom County and whether their work
+  or business falls in the seat's sector.  If both are plainly yes, the
+  answer is Yes.  If either is unclear (a consultant to the sector, a
+  business that spans two sectors), suggest a quick call to the staff
+  contacts before answering.
+- Question 5, asked about the candidate and then, separately, about their
+  spouse: does either have a financial interest in, or work for, a business
+  or agency that does business with Whatcom County?  Ask both halves, since
+  the spouse half is the one people forget.  Explain that
   this is a disclosure, not a disqualifier, and that a broad honest "yes"
   with one line of explanation reads better than a narrow "no" that surfaces
   later.  Family members who hold public office, or who sit on the committee,
@@ -98,6 +105,12 @@ Ask too, before the short fields:
 - Whether they have declared candidacy for a paid elected office in the
   county (RCW 42.17A.055 defines declaring).
 - Two references with daytime phone numbers, and whether each one has agreed.
+- The city where they will sign the form, for the "Place Signed" field.
+
+When an answer comes back thin ("I want to help local business"), ask one
+follow-up for a concrete example before moving on: a number, a named place,
+a specific rule or cost that hit their business.  One good example per
+paragraph is what separates a strong application from a generic one.
 
 ### 3. Draft
 
@@ -134,8 +147,12 @@ leave a visible `[CONFIRM: ...]` marker in the draft rather than filling the
 gap, and list every marker for the candidate when you hand the draft over.
 
 Show the candidate both long answers and ask for changes.  Revise until they
-say it sounds like them.  Then check the whole file for leftover
-`[CONFIRM` markers before moving on.
+say it sounds like them.
+
+Open `[CONFIRM` markers do not block Phases 4 and 5; keep them listed under
+Open Items in the answers file.  They do block Phase 6: search every file in
+the candidate folder for `[CONFIRM` before opening the form, and resolve each
+one with the candidate first.
 
 ### 4. Resume or Summary
 
@@ -147,14 +164,21 @@ current resume.
   anything that contradicts the answers (dates, titles, employer names).
 - If they do not, offer to draft a one-page summary in
   `applications/<First-Last>/` as markdown they can paste into Word or Google
-  Docs and export to PDF.  A one-page summary beats a stale resume.
+  Docs and export to PDF.  A one-page summary beats a stale resume.  Use
+  four short sections: Current Role, Experience (most recent first, with
+  years), Education, and Community Service.  Keep it consistent with the
+  Question 7 answer, since Council members may read both side by side.
 
 ### 5. References
 
 The form asks for references with daytime phone numbers on one line.  If a
 reference has not agreed yet, offer to draft a short ask the candidate can
 send: what the committee is, which seat, that the County may call, and the
-deadline.  Do not send anything on the candidate's behalf.
+deadline.  Save it as
+`applications/<First-Last>/YYYY-MM-DD-<Reference-Name>-Reference-Request.md`,
+with the message body as one line per paragraph so it pastes cleanly into an
+email.  Do not send anything on the candidate's behalf.  When a reference
+agrees, record the date under Reference Status in the answers file.
 
 ### 6. Guided Paste
 
