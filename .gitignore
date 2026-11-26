@@ -1,0 +1,6 @@
+# Candidate drafts and personal details never leave the candidate's machine.
+applications/
+
+# Local tool state
+.remember/
+.DS_Store
