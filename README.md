@@ -32,8 +32,7 @@ personal skills folder.
 
 Then describe the goal in plain words, for example:
 
-> I'd like to apply for the retail seat on the Business and Commerce
-> Advisory Committee.
+> I'd like to apply for the Internet Technology seat on the WCBCC
 
 Claude walks through six steps: choosing the seat and confirming the
 deadline, a short interview, drafting the answers, the resume or summary,
