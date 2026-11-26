@@ -1,8 +1,9 @@
 # WCBCC Application Submittal
 
-A Claude Code skill that takes the overhead out of applying for a seat on the
-Whatcom County Business and Commerce Advisory Committee (WCBCC).  Claude
-interviews the candidate, drafts the County form's eight questions and the
+A Claude Code skill that streamlines applying for a seat on the
+Whatcom County Business and Commerce Advisory Committee (WCBCC).  
+
+Claude interviews the candidate, drafts the County form's eight questions and the
 references line in the candidate's own words, saves a paste-ready answers
 file, and copies each answer to the clipboard while the candidate fills in
 the form.
